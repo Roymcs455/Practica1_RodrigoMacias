@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.19.0/Hello Cardboard/Scenes/HelloCardboard.unity
-    guid: 145a2a45d7bc746b19cb68410368bf96
+    path: Assets/Scenes/Practica2.unity
+    guid: d7fa6f4c2411a85428028c1567a858fb
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a1b40d3129db77447be5a3e14546c0c9, type: 2}
